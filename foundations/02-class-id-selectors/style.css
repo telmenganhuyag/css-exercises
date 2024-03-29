@@ -1,0 +1,21 @@
+.task{
+    background-color: rgb(255, 0, 128);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+    color:black;
+}
+
+.big{
+    font-size:24px;
+}
+
+#two {
+    color:blue;
+    font-size:36px;
+    font-family:'Times New Roman', Times, serif
+}
+
+#four{
+    background-color:lightgreen;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+}
